@@ -1,5 +1,4 @@
 # Solar Sunflower: A #TechCamp and CodeforPhilly.org Project
------------
 
 About
 -----------
