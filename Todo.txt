@@ -1,18 +1,27 @@
 1. Cleaning up github repo
-	1b. Migrating github repo
+	a. Migrating github repo to three repos:
+		i. JeeNode repo
+		ii. Raspberry Pi repo
+		iii. Rails server repo
+	b. Removing deprecated code
+
 2. Python code for pushing data to google fusion tables
-	2a. Make swapping out backends simple
-3. Review website.
-	3a. Community engagement / home of project
-	3b. Student portal
-	3c. Decisionmakers portal
+	a. Design architecture to make swapping out backends simple (heroku, vps, fusion tables, etc.)
+
+3. Review website, design new interfaces.
+	Three sites:
+		1. Community engagement / home of project
+		2. Student portal
+		3. Decisionmakers portal
+	a. Develop web presence
+
 4. Create shopping list with links to items to place on the website
 5. Explore whether or not it's reasonable to offer items for sale
-6. ANOTHER TODO LIST for people that are interested in joining
+6. Project task list for people that want to get involved
 7. Documentation of the whole project
-8. Known issues/bug tracking
+8. Known issues/bug tracking - github
 9. Rebranding - Solar Sunflower is not a permanent name we want to use.
 10. Focus group of teachers
-	10a. Reach out to EduTech meetup?
+	a. Reach out to EduTech meetup?
 11. Strategy for community engagement
 12. Road map for future designs/plans/features
