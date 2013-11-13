@@ -1,7 +1,7 @@
 # Solar Sunflower: A #TechCamp and CodeforPhilly.org Project
 ========================================================
 
-Installation
+About
 -----------
 
 Solar Sunflower is a citywide sensor network, designed to be open source, extensible, and accessible. 
@@ -15,6 +15,9 @@ After receiving the data, the server frames it in educational and decision-makin
 In the educational context, students and teachers are provided with data from the water sensors as a means of enhancing the educational experience. Young students can see visual representations of data collected in a way that is easy to understand. Older students can access the data as exported csv files, allowing them to perform simple statistical and analytical operations. And older students are able to access exposed APIs to develop web applications.
 
 Still further engagement with students can take the form of allowing them to create and decorate the housings for the sensors and electronics or even assemble kits.
+
+Installation
+-----------
 
 ========================================================
 
